@@ -9,7 +9,6 @@ Download the main-standalone.py script. Make sure you have Python 3.7 or newer i
 Install the win10toast Python Library from jithurjacob (see his [Github](https://github.com/jithurjacob/Windows-10-Toast-Notifications))
 ```
 pip install pypiwin32
-pip install setuptools
 pip install win10toast
 ```
 
